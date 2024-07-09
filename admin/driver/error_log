@@ -1,0 +1,24 @@
+[14-Jun-2020 10:00:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php on line 104
+[14-Jun-2020 10:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php on line 104
+[14-Jun-2020 10:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php on line 104
+[14-Jun-2020 10:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php on line 104
+[14-Jun-2020 10:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php on line 104
+[14-Jun-2020 10:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/myclouddata/public_html/ambulance_service/admin/driver/update_data.php on line 104

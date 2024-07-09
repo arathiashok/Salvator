@@ -1,0 +1,2 @@
+[14-Jun-2020 07:46:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/users/select.php on line 139
+[14-Jun-2020 07:47:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/users/select.php on line 139

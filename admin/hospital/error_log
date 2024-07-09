@@ -1,0 +1,8 @@
+[14-Jun-2020 07:38:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/select.php on line 139
+[14-Jun-2020 07:41:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/select.php on line 139
+[14-Jun-2020 09:37:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/form.php on line 84
+[14-Jun-2020 12:27:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/form.php on line 84
+[14-Jun-2020 12:48:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/form.php on line 84
+[14-Jun-2020 12:48:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/form.php on line 84
+[14-Jun-2020 12:52:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/form.php on line 84
+[16-Jun-2020 06:33:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/myclouddata/public_html/ambulance_service/admin/hospital/form.php on line 84
